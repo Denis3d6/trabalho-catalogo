@@ -5,6 +5,12 @@ body{
     font-family: "Tiny5", sans-serif;
     margin-bottom: 100px;
 }
+header{
+    border-bottom: solid 2px blueviolet;
+    padding: 20px;
+    font-size: 32px;
+    color: aqua;
+}
 
 .chamada{
     background: black(223, 155,0.623);
